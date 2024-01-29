@@ -1,0 +1,15 @@
+{
+    "layout": {
+        "color": "#FFFFFF",
+        "font": "Arial",
+        "theme": "light"
+    },
+    "features": {
+        "feature1": true,
+        "feature2": false
+    },
+    "settings": {
+        "option1": "value1",
+        "option2": "value2"
+    }
+}

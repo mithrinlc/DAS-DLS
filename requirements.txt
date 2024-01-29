@@ -1,0 +1,5 @@
+Flask
+redis
+PyJWT
+gunicorn
+psycopg2
